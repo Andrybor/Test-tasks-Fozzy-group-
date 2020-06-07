@@ -1,0 +1,14 @@
+C:\Users\andry\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.exe.config
+C:\Users\andry\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.exe
+C:\Users\andry\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.pdb
+C:\Users\andry\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.csprojAssemblyReference.cache
+C:\Users\andry\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\andry\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.exe
+C:\Users\andry\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.pdb
+C:\Users\andry\source\repos\Tasks\SalaryCalculator\bin\Debug\SalaryCalculator.exe.config
+C:\Users\andry\source\repos\Tasks\SalaryCalculator\bin\Debug\SalaryCalculator.exe
+C:\Users\andry\source\repos\Tasks\SalaryCalculator\bin\Debug\SalaryCalculator.pdb
+C:\Users\andry\source\repos\Tasks\SalaryCalculator\obj\Debug\SalaryCalculator.csprojAssemblyReference.cache
+C:\Users\andry\source\repos\Tasks\SalaryCalculator\obj\Debug\SalaryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\andry\source\repos\Tasks\SalaryCalculator\obj\Debug\SalaryCalculator.exe
+C:\Users\andry\source\repos\Tasks\SalaryCalculator\obj\Debug\SalaryCalculator.pdb

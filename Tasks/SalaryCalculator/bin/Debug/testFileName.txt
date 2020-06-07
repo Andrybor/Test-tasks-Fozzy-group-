@@ -1,0 +1,6 @@
+Id : f6b172d2-2b46-4e45-ac7b-0a7a0e7da320; Name : Alexandr; Salary : 1000
+Id : a93101d1-d4f4-4f74-a4f2-81f008cc2d96; Name : Misha; Salary : 1500
+Id : 14cad6c3-499d-4a0c-b7ba-30d5ae4958a2; Name : Andrii; Salary : 500
+Id : 01fcf9ca-b053-431f-a219-9a13a0c9540a; Name : Liza; Salary : 1664.0
+Id : d2505c27-c174-4f38-9a48-8420a69f6cbe; Name : Masha; Salary : 4992.0
+Id : c6402a2b-d1c2-44a6-9dbc-4d6d75755c33; Name : Stefan; Salary : 3328.0

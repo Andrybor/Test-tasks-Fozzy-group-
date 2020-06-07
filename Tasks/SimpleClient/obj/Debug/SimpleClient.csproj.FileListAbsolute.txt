@@ -1,0 +1,7 @@
+C:\Users\andry\source\repos\SalaryCalculator\SimpleClient\bin\Debug\SimpleClient.exe.config
+C:\Users\andry\source\repos\SalaryCalculator\SimpleClient\bin\Debug\SimpleClient.exe
+C:\Users\andry\source\repos\SalaryCalculator\SimpleClient\bin\Debug\SimpleClient.pdb
+C:\Users\andry\source\repos\SalaryCalculator\SimpleClient\obj\Debug\SimpleClient.csprojAssemblyReference.cache
+C:\Users\andry\source\repos\SalaryCalculator\SimpleClient\obj\Debug\SimpleClient.csproj.CoreCompileInputs.cache
+C:\Users\andry\source\repos\SalaryCalculator\SimpleClient\obj\Debug\SimpleClient.exe
+C:\Users\andry\source\repos\SalaryCalculator\SimpleClient\obj\Debug\SimpleClient.pdb
